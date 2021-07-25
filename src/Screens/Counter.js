@@ -1,4 +1,5 @@
 import React from 'react'
+// var openDatabase = require('websql');
 import { useState, useEffect } from 'react'
 import '../Styles/Counter.css'
 
